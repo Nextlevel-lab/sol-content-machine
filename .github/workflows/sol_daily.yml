@@ -1,0 +1,35 @@
+name: SOL VIDEO DAILY — Generación automática
+
+on:
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  generar-cola-diaria:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install edge-tts pillow requests --quiet
+
+      - name: Generar cola de scripts del día
+        run: python sol_cloud_gen.py
+
+      - name: Subir cola a GitHub
+        run: |
+          git config user.name "SOL-Bot"
+          git config user.email "sol@noreply.github.com"
+          git add sol_queue.json sol_log.txt sol_estado_cloud.json
+          git diff --staged --quiet || git commit -m "SOL diario $(date '+%Y-%m-%d')"
+          git push
