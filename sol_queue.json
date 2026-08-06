@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-05",
+  "generado": "2026-08-06",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-05",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "Con 300€ al mes y esta regla, en 20 años alcanzas la libertad financiera.",
+      "fecha": "2026-08-06",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "La operación secreta que nadie conoce pero que cambió Canadá para siempre.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260805_00"
+      "ts": "20260806_00"
     },
     {
-      "fecha": "2026-08-05",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Cada vez que evitas una tarea tu cerebro genera 7x más ansiedad. El truco para romperlo.",
+      "fecha": "2026-08-06",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "Marco Aurelio tenía 7 reglas para el caos. La número 3 lo cambia todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260805_01"
+      "ts": "20260806_01"
     },
     {
-      "fecha": "2026-08-05",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Los 5 prompts que uso cada día para que la IA trabaje mientras duermo.",
+      "fecha": "2026-08-06",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 7 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260805_02"
+      "ts": "20260806_02"
     }
   ]
 }
