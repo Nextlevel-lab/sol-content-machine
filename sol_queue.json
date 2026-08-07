@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-06",
+  "generado": "2026-08-07",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-06",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "La operación secreta que nadie conoce pero que cambió Canadá para siempre.",
+      "fecha": "2026-08-07",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Los 3 barrios que más se revalorizarán en 2025 según datos del Ministerio.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260806_00"
+      "ts": "20260807_00"
     },
     {
-      "fecha": "2026-08-06",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "Marco Aurelio tenía 7 reglas para el caos. La número 3 lo cambia todo.",
+      "fecha": "2026-08-07",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 15 minutos que lo revierte.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260806_01"
+      "ts": "20260807_01"
     },
     {
-      "fecha": "2026-08-06",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 7 años.",
+      "fecha": "2026-08-07",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Los 10 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260806_02"
+      "ts": "20260807_02"
     }
   ]
 }
