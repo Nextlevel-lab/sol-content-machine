@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-08",
+  "generado": "2026-08-09",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-08",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Por qué el sistema educativo de Finlandia es el mejor del mundo según 7 estudios.",
+      "fecha": "2026-08-09",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Esta IA hace en 3 minutos lo que antes tardaba 8760 horas. Y es gratis.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260808_00"
+      "ts": "20260809_00"
     },
     {
-      "fecha": "2026-08-08",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "El error que comete el 82% de la gente: gastar antes de ahorrar. La regla del 7%.",
+      "fecha": "2026-08-09",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "En 2026, 4 personas desaparecieron en Alemania. Lo que encontraron fue perturbador.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260808_01"
+      "ts": "20260809_01"
     },
     {
-      "fecha": "2026-08-08",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "El efecto Dunning-Kruger explicado en 30 segundos. Y cómo usarlo a tu favor.",
+      "fecha": "2026-08-09",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260808_02"
+      "ts": "20260809_02"
     }
   ]
 }
