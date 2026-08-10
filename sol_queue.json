@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-09",
+  "generado": "2026-08-10",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-09",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Esta IA hace en 3 minutos lo que antes tardaba 8760 horas. Y es gratis.",
+      "fecha": "2026-08-10",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "¿Qué pasaría si la Tierra girase 5 veces más rápido? Te sorprenderá la respuesta.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260809_00"
+      "ts": "20260810_00"
     },
     {
-      "fecha": "2026-08-09",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "En 2026, 4 personas desaparecieron en Alemania. Lo que encontraron fue perturbador.",
+      "fecha": "2026-08-10",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "El 44% de los inversores inmobiliarios cometen este error en su primera compra.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260809_01"
+      "ts": "20260810_01"
     },
     {
-      "fecha": "2026-08-09",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-08-10",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Hacer esto 5 minutos al día reduce el riesgo de diabetes en un 67%.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260809_02"
+      "ts": "20260810_02"
     }
   ]
 }
