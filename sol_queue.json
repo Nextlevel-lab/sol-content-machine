@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-14",
+  "generado": "2026-08-15",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-14",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Hacer esto 15 minutos al día reduce el riesgo de diabetes en un 91%.",
+      "fecha": "2026-08-15",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "El error que comete el 44% de la gente: gastar antes de ahorrar. La regla del 7%.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260814_00"
+      "ts": "20260815_00"
     },
     {
-      "fecha": "2026-08-14",
-      "nicho": "LUJO_LIFESTYLE",
-      "carpeta": "09_LUJO_LIFESTYLE",
-      "tema": "lujo y estilo de vida premium",
-      "script": "Los 7 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
+      "fecha": "2026-08-15",
+      "nicho": "PSICOLOGIA_MENTE",
+      "carpeta": "02_PSICOLOGIA_MENTE",
+      "tema": "psicología y hacks mentales",
+      "script": "El efecto Dunning-Kruger explicado en 30 segundos. Y cómo usarlo a tu favor.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260814_01"
+      "ts": "20260815_01"
     },
     {
-      "fecha": "2026-08-14",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Un dato sobre Singapur que nadie te enseñó en el colegio pero que lo explica todo.",
+      "fecha": "2026-08-15",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Gané 100€ este mes con herramientas de IA completamente gratuitas.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260814_02"
+      "ts": "20260815_02"
     }
   ]
 }
