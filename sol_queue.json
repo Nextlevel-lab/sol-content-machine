@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-15",
+  "generado": "2026-08-16",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-15",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "El error que comete el 44% de la gente: gastar antes de ahorrar. La regla del 7%.",
+      "fecha": "2026-08-16",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "El crimen sin resolver durante 20 años que cambió la historia de Perú.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260815_00"
+      "ts": "20260816_00"
     },
     {
-      "fecha": "2026-08-15",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "El efecto Dunning-Kruger explicado en 30 segundos. Y cómo usarlo a tu favor.",
+      "fecha": "2026-08-16",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260815_01"
+      "ts": "20260816_01"
     },
     {
-      "fecha": "2026-08-15",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Gané 100€ este mes con herramientas de IA completamente gratuitas.",
+      "fecha": "2026-08-16",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "Si no necesitaras dormir tendrías 8760 horas extra al año. Pero habría un problema.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260815_02"
+      "ts": "20260816_02"
     }
   ]
 }
