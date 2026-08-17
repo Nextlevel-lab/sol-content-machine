@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-16",
+  "generado": "2026-08-17",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-16",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "El crimen sin resolver durante 20 años que cambió la historia de Perú.",
+      "fecha": "2026-08-17",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Con 300€ puedes invertir en inmobiliario sin comprar ningún piso. Así funciona.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260816_00"
+      "ts": "20260817_00"
     },
     {
-      "fecha": "2026-08-16",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-08-17",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Los 5 alimentos que destruyen tu energía por la mañana. El número 5 te sorprende.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260816_01"
+      "ts": "20260817_01"
     },
     {
-      "fecha": "2026-08-16",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "Si no necesitaras dormir tendrías 8760 horas extra al año. Pero habría un problema.",
+      "fecha": "2026-08-17",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Cómo viven los 3 jóvenes más ricos del mundo antes de los 25 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260816_02"
+      "ts": "20260817_02"
     }
   ]
 }
