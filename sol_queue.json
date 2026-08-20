@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-19",
+  "generado": "2026-08-20",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-19",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Los 4 prompts que uso cada día para que la IA trabaje mientras duermo.",
+      "fecha": "2026-08-20",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 5 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260819_00"
+      "ts": "20260820_00"
     },
     {
-      "fecha": "2026-08-19",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "En 2025, 5 personas desaparecieron en Japón. Lo que encontraron fue perturbador.",
+      "fecha": "2026-08-20",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "El 44% de los inversores inmobiliarios cometen este error en su primera compra.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260819_01"
+      "ts": "20260820_01"
     },
     {
-      "fecha": "2026-08-19",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-08-20",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 3 minutos que lo revierte.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260819_02"
+      "ts": "20260820_02"
     }
   ]
 }
