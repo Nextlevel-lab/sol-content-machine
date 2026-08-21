@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-20",
+  "generado": "2026-08-21",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-20",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 5 años.",
+      "fecha": "2026-08-21",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Los 3 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260820_00"
+      "ts": "20260821_00"
     },
     {
-      "fecha": "2026-08-20",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "El 44% de los inversores inmobiliarios cometen este error en su primera compra.",
+      "fecha": "2026-08-21",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Por qué el sistema educativo de Japón es el mejor del mundo según 7 estudios.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260820_01"
+      "ts": "20260821_01"
     },
     {
-      "fecha": "2026-08-20",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 3 minutos que lo revierte.",
+      "fecha": "2026-08-21",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "El 67% de los millonarios tienen 5 fuentes de ingresos. Tú puedes tener la tuya.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260820_02"
+      "ts": "20260821_02"
     }
   ]
 }
