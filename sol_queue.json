@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-22",
+  "generado": "2026-08-23",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-22",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Tu cerebro decide en 80 milisegundos si alguien te cae bien. Así puedes influir.",
+      "fecha": "2026-08-23",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "Marco Aurelio tenía 6 reglas para el caos. La número 4 lo cambia todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260822_00"
+      "ts": "20260823_00"
     },
     {
-      "fecha": "2026-08-22",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Los 7 prompts que uso cada día para que la IA trabaje mientras duermo.",
+      "fecha": "2026-08-23",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "¿Qué pasaría si la Tierra girase 10 veces más rápido? Te sorprenderá la respuesta.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260822_01"
+      "ts": "20260823_01"
     },
     {
-      "fecha": "2026-08-22",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "La operación secreta que nadie conoce pero que cambió Canadá para siempre.",
+      "fecha": "2026-08-23",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Con 100€ puedes invertir en inmobiliario sin comprar ningún piso. Así funciona.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260822_02"
+      "ts": "20260823_02"
     }
   ]
 }
