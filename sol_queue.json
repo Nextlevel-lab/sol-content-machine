@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-23",
+  "generado": "2026-08-24",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-23",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "Marco Aurelio tenía 6 reglas para el caos. La número 4 lo cambia todo.",
+      "fecha": "2026-08-24",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Hacer esto 10 minutos al día reduce el riesgo de diabetes en un 58%.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260823_00"
+      "ts": "20260824_00"
     },
     {
-      "fecha": "2026-08-23",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Qué pasaría si la Tierra girase 10 veces más rápido? Te sorprenderá la respuesta.",
+      "fecha": "2026-08-24",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Así es el interior del avión privado más caro del mundo: 180 millones de euros.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260823_01"
+      "ts": "20260824_01"
     },
     {
-      "fecha": "2026-08-23",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "Con 100€ puedes invertir en inmobiliario sin comprar ningún piso. Así funciona.",
+      "fecha": "2026-08-24",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Un dato sobre España que nadie te enseñó en el colegio pero que lo explica todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260823_02"
+      "ts": "20260824_02"
     }
   ]
 }
