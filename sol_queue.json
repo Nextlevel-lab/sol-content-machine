@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-24",
+  "generado": "2026-08-25",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-24",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Hacer esto 10 minutos al día reduce el riesgo de diabetes en un 58%.",
+      "fecha": "2026-08-25",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "El 73% de los millonarios tienen 10 fuentes de ingresos. Tú puedes tener la tuya.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260824_00"
+      "ts": "20260825_00"
     },
     {
-      "fecha": "2026-08-24",
-      "nicho": "LUJO_LIFESTYLE",
-      "carpeta": "09_LUJO_LIFESTYLE",
-      "tema": "lujo y estilo de vida premium",
-      "script": "Así es el interior del avión privado más caro del mundo: 180 millones de euros.",
+      "fecha": "2026-08-25",
+      "nicho": "PSICOLOGIA_MENTE",
+      "carpeta": "02_PSICOLOGIA_MENTE",
+      "tema": "psicología y hacks mentales",
+      "script": "Cada vez que evitas una tarea tu cerebro genera 3x más ansiedad. El truco para romperlo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260824_01"
+      "ts": "20260825_01"
     },
     {
-      "fecha": "2026-08-24",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Un dato sobre España que nadie te enseñó en el colegio pero que lo explica todo.",
+      "fecha": "2026-08-25",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Esta IA hace en 20 minutos lo que antes tardaba 8760 horas. Y es gratis.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260824_02"
+      "ts": "20260825_02"
     }
   ]
 }
