@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-26",
+  "generado": "2026-08-27",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-26",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "El crimen sin resolver durante 10 años que cambió la historia de los Alpes.",
+      "fecha": "2026-08-27",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Con 50€ puedes invertir en inmobiliario sin comprar ningún piso. Así funciona.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260826_00"
+      "ts": "20260827_00"
     },
     {
-      "fecha": "2026-08-26",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "Marco Aurelio tenía 10 reglas para el caos. La número 7 lo cambia todo.",
+      "fecha": "2026-08-27",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 15 minutos que lo revierte.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260826_01"
+      "ts": "20260827_01"
     },
     {
-      "fecha": "2026-08-26",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 4 años.",
+      "fecha": "2026-08-27",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Así es el interior del avión privado más caro del mundo: 350 millones de euros.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260826_02"
+      "ts": "20260827_02"
     }
   ]
 }
