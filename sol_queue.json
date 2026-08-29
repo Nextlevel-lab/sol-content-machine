@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-28",
+  "generado": "2026-08-29",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-28",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Un dato sobre Singapur que nadie te enseñó en el colegio pero que lo explica todo.",
+      "fecha": "2026-08-29",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Los 10 prompts que uso cada día para que la IA trabaje mientras duermo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260828_00"
+      "ts": "20260829_00"
     },
     {
-      "fecha": "2026-08-28",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "Con 500€ al mes y esta regla, en 30 años alcanzas la libertad financiera.",
+      "fecha": "2026-08-29",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "En 2024, 5 personas desaparecieron en Japón. Lo que encontraron fue perturbador.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260828_01"
+      "ts": "20260829_01"
     },
     {
-      "fecha": "2026-08-28",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Cada vez que evitas una tarea tu cerebro genera 5x más ansiedad. El truco para romperlo.",
+      "fecha": "2026-08-29",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "Marco Aurelio tenía 5 reglas para el caos. La número 3 lo cambia todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260828_02"
+      "ts": "20260829_02"
     }
   ]
 }
