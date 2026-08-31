@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-30",
+  "generado": "2026-08-31",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-30",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "Si no necesitaras dormir tendrías 1460 horas extra al año. Pero habría un problema.",
+      "fecha": "2026-08-31",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Así es el interior del avión privado más caro del mundo: 650 millones de euros.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260830_00"
+      "ts": "20260831_00"
     },
     {
-      "fecha": "2026-08-30",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "El 58% de los inversores inmobiliarios cometen este error en su primera compra.",
+      "fecha": "2026-08-31",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Aprende francés en 10 días con este método. Sin apps, sin clases, sin dinero.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260830_01"
+      "ts": "20260831_01"
     },
     {
-      "fecha": "2026-08-30",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 5 minutos que lo revierte.",
+      "fecha": "2026-08-31",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "El error que comete el 82% de la gente: gastar antes de ahorrar. La regla del 4%.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260830_02"
+      "ts": "20260831_02"
     }
   ]
 }
