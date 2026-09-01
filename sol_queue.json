@@ -1,36 +1,36 @@
 {
-  "generado": "2026-08-31",
+  "generado": "2026-09-01",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-08-31",
-      "nicho": "LUJO_LIFESTYLE",
-      "carpeta": "09_LUJO_LIFESTYLE",
-      "tema": "lujo y estilo de vida premium",
-      "script": "Así es el interior del avión privado más caro del mundo: 650 millones de euros.",
+      "fecha": "2026-09-01",
+      "nicho": "PSICOLOGIA_MENTE",
+      "carpeta": "02_PSICOLOGIA_MENTE",
+      "tema": "psicología y hacks mentales",
+      "script": "Tu cerebro decide en 80 milisegundos si alguien te cae bien. Así puedes influir.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260831_00"
+      "ts": "20260901_00"
     },
     {
-      "fecha": "2026-08-31",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Aprende francés en 10 días con este método. Sin apps, sin clases, sin dinero.",
+      "fecha": "2026-09-01",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Esta IA hace en 10 minutos lo que antes tardaba 8760 horas. Y es gratis.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260831_01"
+      "ts": "20260901_01"
     },
     {
-      "fecha": "2026-08-31",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "El error que comete el 82% de la gente: gastar antes de ahorrar. La regla del 4%.",
+      "fecha": "2026-09-01",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "El crimen sin resolver durante 30 años que cambió la historia de los Alpes.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260831_02"
+      "ts": "20260901_02"
     }
   ]
 }
