@@ -1,36 +1,36 @@
 {
-  "generado": "2026-09-01",
+  "generado": "2026-09-02",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-09-01",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Tu cerebro decide en 80 milisegundos si alguien te cae bien. Así puedes influir.",
+      "fecha": "2026-09-02",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "Marco Aurelio tenía 4 reglas para el caos. La número 2 lo cambia todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260901_00"
+      "ts": "20260902_00"
     },
     {
-      "fecha": "2026-09-01",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Esta IA hace en 10 minutos lo que antes tardaba 8760 horas. Y es gratis.",
+      "fecha": "2026-09-02",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 4 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260901_01"
+      "ts": "20260902_01"
     },
     {
-      "fecha": "2026-09-01",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "El crimen sin resolver durante 30 años que cambió la historia de los Alpes.",
+      "fecha": "2026-09-02",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Los 7 barrios que más se revalorizarán en 2024 según datos del Ministerio.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260901_02"
+      "ts": "20260902_02"
     }
   ]
 }
