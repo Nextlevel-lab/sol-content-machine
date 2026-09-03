@@ -1,36 +1,36 @@
 {
-  "generado": "2026-09-02",
+  "generado": "2026-09-03",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-09-02",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "Marco Aurelio tenía 4 reglas para el caos. La número 2 lo cambia todo.",
+      "fecha": "2026-09-03",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Los 4 alimentos que destruyen tu energía por la mañana. El número 7 te sorprende.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260902_00"
+      "ts": "20260903_00"
     },
     {
-      "fecha": "2026-09-02",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 4 años.",
+      "fecha": "2026-09-03",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Los 7 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260902_01"
+      "ts": "20260903_01"
     },
     {
-      "fecha": "2026-09-02",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "Los 7 barrios que más se revalorizarán en 2024 según datos del Ministerio.",
+      "fecha": "2026-09-03",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Por qué el sistema educativo de Singapur es el mejor del mundo según 6 estudios.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260902_02"
+      "ts": "20260903_02"
     }
   ]
 }
