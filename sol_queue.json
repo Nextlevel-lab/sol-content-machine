@@ -1,36 +1,36 @@
 {
-  "generado": "2026-09-05",
+  "generado": "2026-09-06",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-09-05",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "El crimen sin resolver durante 15 años que cambió la historia de Alemania.",
+      "fecha": "2026-09-06",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Con 50€ puedes invertir en inmobiliario sin comprar ningún piso. Así funciona.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260905_00"
+      "ts": "20260906_00"
     },
     {
-      "fecha": "2026-09-05",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "La disciplina supera al talento. Siempre. Los 4 hábitos que lo demuestran.",
+      "fecha": "2026-09-06",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 10 minutos que lo revierte.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260905_01"
+      "ts": "20260906_01"
     },
     {
-      "fecha": "2026-09-05",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Qué pasaría si la Tierra girase 3 veces más rápido? Te sorprenderá la respuesta.",
+      "fecha": "2026-09-06",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Así es el interior del avión privado más caro del mundo: 180 millones de euros.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260905_02"
+      "ts": "20260906_02"
     }
   ]
 }
