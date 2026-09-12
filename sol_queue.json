@@ -1,36 +1,36 @@
 {
-  "generado": "2026-09-11",
+  "generado": "2026-09-12",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-09-11",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Tu cerebro decide en 80 milisegundos si alguien te cae bien. Así puedes influir.",
+      "fecha": "2026-09-12",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260911_00"
+      "ts": "20260912_00"
     },
     {
-      "fecha": "2026-09-11",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Gané 50€ este mes con herramientas de IA completamente gratuitas.",
+      "fecha": "2026-09-12",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 7 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260911_01"
+      "ts": "20260912_01"
     },
     {
-      "fecha": "2026-09-11",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "En 2025, 5 personas desaparecieron en los Alpes. Lo que encontraron fue perturbador.",
+      "fecha": "2026-09-12",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "El 44% de los inversores inmobiliarios cometen este error en su primera compra.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260911_02"
+      "ts": "20260912_02"
     }
   ]
 }
