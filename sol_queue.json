@@ -1,36 +1,36 @@
 {
-  "generado": "2026-09-12",
+  "generado": "2026-09-13",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-09-12",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-09-13",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Los 7 alimentos que destruyen tu energía por la mañana. El número 5 te sorprende.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260912_00"
+      "ts": "20260913_00"
     },
     {
-      "fecha": "2026-09-12",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 7 años.",
+      "fecha": "2026-09-13",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Los 5 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260912_01"
+      "ts": "20260913_01"
     },
     {
-      "fecha": "2026-09-12",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "El 44% de los inversores inmobiliarios cometen este error en su primera compra.",
+      "fecha": "2026-09-13",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Un dato sobre Finlandia que nadie te enseñó en el colegio pero que lo explica todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260912_02"
+      "ts": "20260913_02"
     }
   ]
 }
