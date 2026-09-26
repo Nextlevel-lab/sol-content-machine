@@ -1,36 +1,36 @@
 {
-  "generado": "2026-09-25",
+  "generado": "2026-09-26",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-09-25",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "La operación secreta que nadie conoce pero que cambió Canadá para siempre.",
+      "fecha": "2026-09-26",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "El 58% de los inversores inmobiliarios cometen este error en su primera compra.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260925_00"
+      "ts": "20260926_00"
     },
     {
-      "fecha": "2026-09-25",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-09-26",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Los 5 alimentos que destruyen tu energía por la mañana. El número 7 te sorprende.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260925_01"
+      "ts": "20260926_01"
     },
     {
-      "fecha": "2026-09-25",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 10 años.",
+      "fecha": "2026-09-26",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Los 3 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260925_02"
+      "ts": "20260926_02"
     }
   ]
 }
