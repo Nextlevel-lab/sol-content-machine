@@ -1,36 +1,36 @@
 {
-  "generado": "2026-09-27",
+  "generado": "2026-09-28",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-09-27",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Por qué el sistema educativo de España es el mejor del mundo según 6 estudios.",
+      "fecha": "2026-09-28",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Gané 1000€ este mes con herramientas de IA completamente gratuitas.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260927_00"
+      "ts": "20260928_00"
     },
     {
-      "fecha": "2026-09-27",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "El 67% de los millonarios tienen 6 fuentes de ingresos. Tú puedes tener la tuya.",
+      "fecha": "2026-09-28",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "El crimen sin resolver durante 30 años que cambió la historia de Japón.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260927_01"
+      "ts": "20260928_01"
     },
     {
-      "fecha": "2026-09-27",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Tu cerebro decide en 33 milisegundos si alguien te cae bien. Así puedes influir.",
+      "fecha": "2026-09-28",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "Marco Aurelio tenía 7 reglas para el caos. La número 4 lo cambia todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260927_02"
+      "ts": "20260928_02"
     }
   ]
 }
