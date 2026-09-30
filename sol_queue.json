@@ -1,36 +1,36 @@
 {
-  "generado": "2026-09-29",
+  "generado": "2026-09-30",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-09-29",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Qué pasaría si la Tierra girase 3 veces más rápido? Te sorprenderá la respuesta.",
+      "fecha": "2026-09-30",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Así es el interior del avión privado más caro del mundo: 180 millones de euros.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260929_00"
+      "ts": "20260930_00"
     },
     {
-      "fecha": "2026-09-29",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "El 73% de los inversores inmobiliarios cometen este error en su primera compra.",
+      "fecha": "2026-09-30",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Por qué el sistema educativo de Finlandia es el mejor del mundo según 4 estudios.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260929_01"
+      "ts": "20260930_01"
     },
     {
-      "fecha": "2026-09-29",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Los 5 alimentos que destruyen tu energía por la mañana. El número 7 te sorprende.",
+      "fecha": "2026-09-30",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "El error que comete el 67% de la gente: gastar antes de ahorrar. La regla del 3%.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260929_02"
+      "ts": "20260930_02"
     }
   ]
 }
