@@ -1,36 +1,36 @@
 {
-  "generado": "2026-09-30",
+  "generado": "2026-10-01",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-09-30",
-      "nicho": "LUJO_LIFESTYLE",
-      "carpeta": "09_LUJO_LIFESTYLE",
-      "tema": "lujo y estilo de vida premium",
-      "script": "Así es el interior del avión privado más caro del mundo: 180 millones de euros.",
+      "fecha": "2026-10-01",
+      "nicho": "PSICOLOGIA_MENTE",
+      "carpeta": "02_PSICOLOGIA_MENTE",
+      "tema": "psicología y hacks mentales",
+      "script": "Cada vez que evitas una tarea tu cerebro genera 4x más ansiedad. El truco para romperlo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260930_00"
+      "ts": "20261001_00"
     },
     {
-      "fecha": "2026-09-30",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Por qué el sistema educativo de Finlandia es el mejor del mundo según 4 estudios.",
+      "fecha": "2026-10-01",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Gané 500€ este mes con herramientas de IA completamente gratuitas.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260930_01"
+      "ts": "20261001_01"
     },
     {
-      "fecha": "2026-09-30",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "El error que comete el 67% de la gente: gastar antes de ahorrar. La regla del 3%.",
+      "fecha": "2026-10-01",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "La operación secreta que nadie conoce pero que cambió Canadá para siempre.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20260930_02"
+      "ts": "20261001_02"
     }
   ]
 }
