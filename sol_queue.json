@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-02",
+  "generado": "2026-10-03",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-02",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-10-03",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 5 minutos que lo revierte.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261002_00"
+      "ts": "20261003_00"
     },
     {
-      "fecha": "2026-10-02",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 10 años.",
+      "fecha": "2026-10-03",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Así es el interior del avión privado más caro del mundo: 220 millones de euros.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261002_01"
+      "ts": "20261003_01"
     },
     {
-      "fecha": "2026-10-02",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "Con 2000€ puedes invertir en inmobiliario sin comprar ningún piso. Así funciona.",
+      "fecha": "2026-10-03",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Aprende alemán en 5 días con este método. Sin apps, sin clases, sin dinero.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261002_02"
+      "ts": "20261003_02"
     }
   ]
 }
