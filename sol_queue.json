@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-05",
+  "generado": "2026-10-06",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-05",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "El crimen sin resolver durante 10 años que cambió la historia de Alemania.",
+      "fecha": "2026-10-06",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "El 91% de los inversores inmobiliarios cometen este error en su primera compra.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261005_00"
+      "ts": "20261006_00"
     },
     {
-      "fecha": "2026-10-05",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-10-06",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Hacer esto 15 minutos al día reduce el riesgo de diabetes en un 67%.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261005_01"
+      "ts": "20261006_01"
     },
     {
-      "fecha": "2026-10-05",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 5 años.",
+      "fecha": "2026-10-06",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Cómo viven los 6 jóvenes más ricos del mundo antes de los 25 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261005_02"
+      "ts": "20261006_02"
     }
   ]
 }
