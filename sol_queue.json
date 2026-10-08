@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-07",
+  "generado": "2026-10-08",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-07",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Un dato sobre España que nadie te enseñó en el colegio pero que lo explica todo.",
+      "fecha": "2026-10-08",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Gané 300€ este mes con herramientas de IA completamente gratuitas.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261007_00"
+      "ts": "20261008_00"
     },
     {
-      "fecha": "2026-10-07",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "El error que comete el 67% de la gente: gastar antes de ahorrar. La regla del 5%.",
+      "fecha": "2026-10-08",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "En 2026, 10 personas desaparecieron en los Alpes. Lo que encontraron fue perturbador.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261007_01"
+      "ts": "20261008_01"
     },
     {
-      "fecha": "2026-10-07",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Tu cerebro decide en 33 milisegundos si alguien te cae bien. Así puedes influir.",
+      "fecha": "2026-10-08",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261007_02"
+      "ts": "20261008_02"
     }
   ]
 }
