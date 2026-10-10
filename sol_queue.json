@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-09",
+  "generado": "2026-10-10",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-09",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 10 años.",
+      "fecha": "2026-10-10",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Los 4 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261009_00"
+      "ts": "20261010_00"
     },
     {
-      "fecha": "2026-10-09",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "El 82% de los inversores inmobiliarios cometen este error en su primera compra.",
+      "fecha": "2026-10-10",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Un dato sobre Finlandia que nadie te enseñó en el colegio pero que lo explica todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261009_01"
+      "ts": "20261010_01"
     },
     {
-      "fecha": "2026-10-09",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Los 5 alimentos que destruyen tu energía por la mañana. El número 7 te sorprende.",
+      "fecha": "2026-10-10",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "Con 100€ al mes y esta regla, en 5 años alcanzas la libertad financiera.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261009_02"
+      "ts": "20261010_02"
     }
   ]
 }
