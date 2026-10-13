@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-12",
+  "generado": "2026-10-13",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-12",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-10-13",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Los 10 alimentos que destruyen tu energía por la mañana. El número 7 te sorprende.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261012_00"
+      "ts": "20261013_00"
     },
     {
-      "fecha": "2026-10-12",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Qué pasaría si la Tierra girase 5 veces más rápido? Te sorprenderá la respuesta.",
+      "fecha": "2026-10-13",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Los 7 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261012_01"
+      "ts": "20261013_01"
     },
     {
-      "fecha": "2026-10-12",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "Los 7 barrios que más se revalorizarán en 2024 según datos del Ministerio.",
+      "fecha": "2026-10-13",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Por qué el sistema educativo de Finlandia es el mejor del mundo según 7 estudios.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261012_02"
+      "ts": "20261013_02"
     }
   ]
 }
