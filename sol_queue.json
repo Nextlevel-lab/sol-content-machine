@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-15",
+  "generado": "2026-10-16",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-15",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "En 2024, 3 personas desaparecieron en los Alpes. Lo que encontraron fue perturbador.",
+      "fecha": "2026-10-16",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Los 10 barrios que más se revalorizarán en 2026 según datos del Ministerio.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261015_00"
+      "ts": "20261016_00"
     },
     {
-      "fecha": "2026-10-15",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "Marco Aurelio tenía 5 reglas para el caos. La número 3 lo cambia todo.",
+      "fecha": "2026-10-16",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Los 6 alimentos que destruyen tu energía por la mañana. El número 3 te sorprende.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261015_01"
+      "ts": "20261016_01"
     },
     {
-      "fecha": "2026-10-15",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "Si no necesitaras dormir tendrías 730 horas extra al año. Pero habría un problema.",
+      "fecha": "2026-10-16",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Los 5 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261015_02"
+      "ts": "20261016_02"
     }
   ]
 }
