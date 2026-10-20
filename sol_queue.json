@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-19",
+  "generado": "2026-10-20",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-19",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Qué pasaría si la Tierra girase 7 veces más rápido? Te sorprenderá la respuesta.",
+      "fecha": "2026-10-20",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Cómo viven los 4 jóvenes más ricos del mundo antes de los 30 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261019_00"
+      "ts": "20261020_00"
     },
     {
-      "fecha": "2026-10-19",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "El 73% de los inversores inmobiliarios cometen este error en su primera compra.",
+      "fecha": "2026-10-20",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Aprende inglés en 5 días con este método. Sin apps, sin clases, sin dinero.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261019_01"
+      "ts": "20261020_01"
     },
     {
-      "fecha": "2026-10-19",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 15 minutos que lo revierte.",
+      "fecha": "2026-10-20",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "El error que comete el 67% de la gente: gastar antes de ahorrar. La regla del 3%.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261019_02"
+      "ts": "20261020_02"
     }
   ]
 }
