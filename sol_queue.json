@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-23",
+  "generado": "2026-10-24",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-23",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Hacer esto 20 minutos al día reduce el riesgo de diabetes en un 82%.",
+      "fecha": "2026-10-24",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "El 67% de los millonarios tienen 10 fuentes de ingresos. Tú puedes tener la tuya.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261023_00"
+      "ts": "20261024_00"
     },
     {
-      "fecha": "2026-10-23",
-      "nicho": "LUJO_LIFESTYLE",
-      "carpeta": "09_LUJO_LIFESTYLE",
-      "tema": "lujo y estilo de vida premium",
-      "script": "Los 6 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
+      "fecha": "2026-10-24",
+      "nicho": "PSICOLOGIA_MENTE",
+      "carpeta": "02_PSICOLOGIA_MENTE",
+      "tema": "psicología y hacks mentales",
+      "script": "Tu cerebro decide en 33 milisegundos si alguien te cae bien. Así puedes influir.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261023_01"
+      "ts": "20261024_01"
     },
     {
-      "fecha": "2026-10-23",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Aprende japonés en 15 días con este método. Sin apps, sin clases, sin dinero.",
+      "fecha": "2026-10-24",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Esta IA hace en 10 minutos lo que antes tardaba 2920 horas. Y es gratis.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261023_02"
+      "ts": "20261024_02"
     }
   ]
 }
