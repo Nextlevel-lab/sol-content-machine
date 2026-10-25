@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-24",
+  "generado": "2026-10-25",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-24",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "El 67% de los millonarios tienen 10 fuentes de ingresos. Tú puedes tener la tuya.",
+      "fecha": "2026-10-25",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "En 2026, 6 personas desaparecieron en los Alpes. Lo que encontraron fue perturbador.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261024_00"
+      "ts": "20261025_00"
     },
     {
-      "fecha": "2026-10-24",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Tu cerebro decide en 33 milisegundos si alguien te cae bien. Así puedes influir.",
+      "fecha": "2026-10-25",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "La disciplina supera al talento. Siempre. Los 6 hábitos que lo demuestran.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261024_01"
+      "ts": "20261025_01"
     },
     {
-      "fecha": "2026-10-24",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Esta IA hace en 10 minutos lo que antes tardaba 2920 horas. Y es gratis.",
+      "fecha": "2026-10-25",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "Si no necesitaras dormir tendrías 730 horas extra al año. Pero habría un problema.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261024_02"
+      "ts": "20261025_02"
     }
   ]
 }
