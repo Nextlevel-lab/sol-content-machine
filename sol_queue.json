@@ -1,36 +1,36 @@
 {
-  "generado": "2026-10-29",
+  "generado": "2026-10-30",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-10-29",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "Si no necesitaras dormir tendrías 730 horas extra al año. Pero habría un problema.",
+      "fecha": "2026-10-30",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Así es el interior del avión privado más caro del mundo: 220 millones de euros.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261029_00"
+      "ts": "20261030_00"
     },
     {
-      "fecha": "2026-10-29",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "Los 6 barrios que más se revalorizarán en 2024 según datos del Ministerio.",
+      "fecha": "2026-10-30",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Por qué el sistema educativo de Japón es el mejor del mundo según 7 estudios.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261029_01"
+      "ts": "20261030_01"
     },
     {
-      "fecha": "2026-10-29",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 20 minutos que lo revierte.",
+      "fecha": "2026-10-30",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "El 44% de los millonarios tienen 7 fuentes de ingresos. Tú puedes tener la tuya.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261029_02"
+      "ts": "20261030_02"
     }
   ]
 }
