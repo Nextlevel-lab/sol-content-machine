@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-04",
+  "generado": "2026-11-05",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-04",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "La operación secreta que nadie conoce pero que cambió Finlandia para siempre.",
+      "fecha": "2026-11-05",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "El 91% de los inversores inmobiliarios cometen este error en su primera compra.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261104_00"
+      "ts": "20261105_00"
     },
     {
-      "fecha": "2026-11-04",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-11-05",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 20 minutos que lo revierte.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261104_01"
+      "ts": "20261105_01"
     },
     {
-      "fecha": "2026-11-04",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 5 años.",
+      "fecha": "2026-11-05",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Cómo viven los 3 jóvenes más ricos del mundo antes de los 35 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261104_02"
+      "ts": "20261105_02"
     }
   ]
 }
