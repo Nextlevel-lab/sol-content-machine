@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-07",
+  "generado": "2026-11-08",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-07",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Esta IA hace en 3 minutos lo que antes tardaba 730 horas. Y es gratis.",
+      "fecha": "2026-11-08",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "Si no necesitaras dormir tendrías 1460 horas extra al año. Pero habría un problema.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261107_00"
+      "ts": "20261108_00"
     },
     {
-      "fecha": "2026-11-07",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "El crimen sin resolver durante 15 años que cambió la historia de Alemania.",
+      "fecha": "2026-11-08",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Con 500€ puedes invertir en inmobiliario sin comprar ningún piso. Así funciona.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261107_01"
+      "ts": "20261108_01"
     },
     {
-      "fecha": "2026-11-07",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-11-08",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Hacer esto 10 minutos al día reduce el riesgo de diabetes en un 44%.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261107_02"
+      "ts": "20261108_02"
     }
   ]
 }
