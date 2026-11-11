@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-10",
+  "generado": "2026-11-11",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-10",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Cada vez que evitas una tarea tu cerebro genera 6x más ansiedad. El truco para romperlo.",
+      "fecha": "2026-11-11",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "Marco Aurelio tenía 4 reglas para el caos. La número 3 lo cambia todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261110_00"
+      "ts": "20261111_00"
     },
     {
-      "fecha": "2026-11-10",
-      "nicho": "IA_TECNOLOGIA",
-      "carpeta": "03_IA_TECNOLOGIA",
-      "tema": "inteligencia artificial y tecnología",
-      "script": "Gané 1000€ este mes con herramientas de IA completamente gratuitas.",
+      "fecha": "2026-11-11",
+      "nicho": "QUE_PASARIA_SI",
+      "carpeta": "06_QUE_PASARIA_SI",
+      "tema": "escenarios hipotéticos de ciencia",
+      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 10 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261110_01"
+      "ts": "20261111_01"
     },
     {
-      "fecha": "2026-11-10",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "En 2026, 4 personas desaparecieron en Japón. Lo que encontraron fue perturbador.",
+      "fecha": "2026-11-11",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Los 10 barrios que más se revalorizarán en 2026 según datos del Ministerio.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261110_02"
+      "ts": "20261111_02"
     }
   ]
 }
