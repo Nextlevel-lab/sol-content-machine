@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-11",
+  "generado": "2026-11-12",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-11",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "Marco Aurelio tenía 4 reglas para el caos. La número 3 lo cambia todo.",
+      "fecha": "2026-11-12",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 3 minutos que lo revierte.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261111_00"
+      "ts": "20261112_00"
     },
     {
-      "fecha": "2026-11-11",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "¿Y si todos los humanos desapareciéramos mañana? Esto pasaría en 10 años.",
+      "fecha": "2026-11-12",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Cómo viven los 6 jóvenes más ricos del mundo antes de los 30 años.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261111_01"
+      "ts": "20261112_01"
     },
     {
-      "fecha": "2026-11-11",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "Los 10 barrios que más se revalorizarán en 2026 según datos del Ministerio.",
+      "fecha": "2026-11-12",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Aprende inglés en 15 días con este método. Sin apps, sin clases, sin dinero.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261111_02"
+      "ts": "20261112_02"
     }
   ]
 }
