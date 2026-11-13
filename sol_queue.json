@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-12",
+  "generado": "2026-11-13",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-12",
-      "nicho": "SALUD_FITNESS",
-      "carpeta": "08_SALUD_FITNESS",
-      "tema": "salud y fitness",
-      "script": "Tu postura al sentarte está dañando tu espalda. El ejercicio de 3 minutos que lo revierte.",
+      "fecha": "2026-11-13",
+      "nicho": "FINANZAS_INVERSIONES",
+      "carpeta": "01_FINANZAS_INVERSIONES",
+      "tema": "finanzas e inversiones",
+      "script": "Con 100€ al mes y esta regla, en 20 años alcanzas la libertad financiera.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261112_00"
+      "ts": "20261113_00"
     },
     {
-      "fecha": "2026-11-12",
-      "nicho": "LUJO_LIFESTYLE",
-      "carpeta": "09_LUJO_LIFESTYLE",
-      "tema": "lujo y estilo de vida premium",
-      "script": "Cómo viven los 6 jóvenes más ricos del mundo antes de los 30 años.",
+      "fecha": "2026-11-13",
+      "nicho": "PSICOLOGIA_MENTE",
+      "carpeta": "02_PSICOLOGIA_MENTE",
+      "tema": "psicología y hacks mentales",
+      "script": "Cada vez que evitas una tarea tu cerebro genera 5x más ansiedad. El truco para romperlo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261112_01"
+      "ts": "20261113_01"
     },
     {
-      "fecha": "2026-11-12",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Aprende inglés en 15 días con este método. Sin apps, sin clases, sin dinero.",
+      "fecha": "2026-11-13",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Esta IA hace en 5 minutos lo que antes tardaba 2920 horas. Y es gratis.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261112_02"
+      "ts": "20261113_02"
     }
   ]
 }
