@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-16",
+  "generado": "2026-11-17",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-16",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Por qué el sistema educativo de España es el mejor del mundo según 5 estudios.",
+      "fecha": "2026-11-17",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Esta IA hace en 3 minutos lo que antes tardaba 1460 horas. Y es gratis.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261116_00"
+      "ts": "20261117_00"
     },
     {
-      "fecha": "2026-11-16",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "El 44% de los millonarios tienen 7 fuentes de ingresos. Tú puedes tener la tuya.",
+      "fecha": "2026-11-17",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "En 2025, 4 personas desaparecieron en Canadá. Lo que encontraron fue perturbador.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261116_01"
+      "ts": "20261117_01"
     },
     {
-      "fecha": "2026-11-16",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "El efecto Dunning-Kruger explicado en 30 segundos. Y cómo usarlo a tu favor.",
+      "fecha": "2026-11-17",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "Marco Aurelio tenía 3 reglas para el caos. La número 4 lo cambia todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261116_02"
+      "ts": "20261117_02"
     }
   ]
 }
