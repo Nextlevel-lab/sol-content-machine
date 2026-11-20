@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-19",
+  "generado": "2026-11-20",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-19",
-      "nicho": "LUJO_LIFESTYLE",
-      "carpeta": "09_LUJO_LIFESTYLE",
-      "tema": "lujo y estilo de vida premium",
-      "script": "Los 3 hoteles más exclusivos donde una noche cuesta más que un coche de lujo.",
+      "fecha": "2026-11-20",
+      "nicho": "PSICOLOGIA_MENTE",
+      "carpeta": "02_PSICOLOGIA_MENTE",
+      "tema": "psicología y hacks mentales",
+      "script": "Cada vez que evitas una tarea tu cerebro genera 6x más ansiedad. El truco para romperlo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261119_00"
+      "ts": "20261120_00"
     },
     {
-      "fecha": "2026-11-19",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Por qué el sistema educativo de Canadá es el mejor del mundo según 6 estudios.",
+      "fecha": "2026-11-20",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Esta IA hace en 10 minutos lo que antes tardaba 8760 horas. Y es gratis.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261119_01"
+      "ts": "20261120_01"
     },
     {
-      "fecha": "2026-11-19",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "Con 300€ al mes y esta regla, en 5 años alcanzas la libertad financiera.",
+      "fecha": "2026-11-20",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "En 2026, 4 personas desaparecieron en Canadá. Lo que encontraron fue perturbador.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261119_02"
+      "ts": "20261120_02"
     }
   ]
 }
