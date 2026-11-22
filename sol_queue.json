@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-21",
+  "generado": "2026-11-22",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-21",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "La disciplina supera al talento. Siempre. Los 3 hábitos que lo demuestran.",
+      "fecha": "2026-11-22",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Los 5 alimentos que destruyen tu energía por la mañana. El número 5 te sorprende.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261121_00"
+      "ts": "20261122_00"
     },
     {
-      "fecha": "2026-11-21",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "Si no necesitaras dormir tendrías 730 horas extra al año. Pero habría un problema.",
+      "fecha": "2026-11-22",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Así es el interior del avión privado más caro del mundo: 220 millones de euros.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261121_01"
+      "ts": "20261122_01"
     },
     {
-      "fecha": "2026-11-21",
-      "nicho": "INMOBILIARIO_NEGOCIOS",
-      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
-      "tema": "inmobiliario y negocios",
-      "script": "El 91% de los inversores inmobiliarios cometen este error en su primera compra.",
+      "fecha": "2026-11-22",
+      "nicho": "EDUCACION_GLOBAL",
+      "carpeta": "10_EDUCACION_GLOBAL",
+      "tema": "educación y datos curiosos",
+      "script": "Por qué el sistema educativo de España es el mejor del mundo según 5 estudios.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261121_02"
+      "ts": "20261122_02"
     }
   ]
 }
