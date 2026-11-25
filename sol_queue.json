@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-24",
+  "generado": "2026-11-25",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-24",
-      "nicho": "HISTORIA_CRIMEN",
-      "carpeta": "04_HISTORIA_CRIMEN",
-      "tema": "historia oscura y crimen real",
-      "script": "La operación secreta que nadie conoce pero que cambió Japón para siempre.",
+      "fecha": "2026-11-25",
+      "nicho": "INMOBILIARIO_NEGOCIOS",
+      "carpeta": "07_INMOBILIARIO_NEGOCIOS",
+      "tema": "inmobiliario y negocios",
+      "script": "Con 1000€ puedes invertir en inmobiliario sin comprar ningún piso. Así funciona.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261124_00"
+      "ts": "20261125_00"
     },
     {
-      "fecha": "2026-11-24",
-      "nicho": "MOTIVACION_ESTOICISMO",
-      "carpeta": "05_MOTIVACION_ESTOICISMO",
-      "tema": "motivación y estoicismo",
-      "script": "El día que dejé de buscar motivación y empecé a construir sistemas, todo cambió.",
+      "fecha": "2026-11-25",
+      "nicho": "SALUD_FITNESS",
+      "carpeta": "08_SALUD_FITNESS",
+      "tema": "salud y fitness",
+      "script": "Hacer esto 15 minutos al día reduce el riesgo de diabetes en un 91%.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261124_01"
+      "ts": "20261125_01"
     },
     {
-      "fecha": "2026-11-24",
-      "nicho": "QUE_PASARIA_SI",
-      "carpeta": "06_QUE_PASARIA_SI",
-      "tema": "escenarios hipotéticos de ciencia",
-      "script": "Si no necesitaras dormir tendrías 1460 horas extra al año. Pero habría un problema.",
+      "fecha": "2026-11-25",
+      "nicho": "LUJO_LIFESTYLE",
+      "carpeta": "09_LUJO_LIFESTYLE",
+      "tema": "lujo y estilo de vida premium",
+      "script": "Así es el interior del avión privado más caro del mundo: 650 millones de euros.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261124_02"
+      "ts": "20261125_02"
     }
   ]
 }
