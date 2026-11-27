@@ -1,36 +1,36 @@
 {
-  "generado": "2026-11-26",
+  "generado": "2026-11-27",
   "total": 3,
   "videos": [
     {
-      "fecha": "2026-11-26",
-      "nicho": "EDUCACION_GLOBAL",
-      "carpeta": "10_EDUCACION_GLOBAL",
-      "tema": "educación y datos curiosos",
-      "script": "Un dato sobre Finlandia que nadie te enseñó en el colegio pero que lo explica todo.",
+      "fecha": "2026-11-27",
+      "nicho": "IA_TECNOLOGIA",
+      "carpeta": "03_IA_TECNOLOGIA",
+      "tema": "inteligencia artificial y tecnología",
+      "script": "Gané 1000€ este mes con herramientas de IA completamente gratuitas.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261126_00"
+      "ts": "20261127_00"
     },
     {
-      "fecha": "2026-11-26",
-      "nicho": "FINANZAS_INVERSIONES",
-      "carpeta": "01_FINANZAS_INVERSIONES",
-      "tema": "finanzas e inversiones",
-      "script": "Con 300€ al mes y esta regla, en 30 años alcanzas la libertad financiera.",
+      "fecha": "2026-11-27",
+      "nicho": "HISTORIA_CRIMEN",
+      "carpeta": "04_HISTORIA_CRIMEN",
+      "tema": "historia oscura y crimen real",
+      "script": "En 2025, 3 personas desaparecieron en Canadá. Lo que encontraron fue perturbador.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261126_01"
+      "ts": "20261127_01"
     },
     {
-      "fecha": "2026-11-26",
-      "nicho": "PSICOLOGIA_MENTE",
-      "carpeta": "02_PSICOLOGIA_MENTE",
-      "tema": "psicología y hacks mentales",
-      "script": "Tu cerebro decide en 33 milisegundos si alguien te cae bien. Así puedes influir.",
+      "fecha": "2026-11-27",
+      "nicho": "MOTIVACION_ESTOICISMO",
+      "carpeta": "05_MOTIVACION_ESTOICISMO",
+      "tema": "motivación y estoicismo",
+      "script": "Marco Aurelio tenía 5 reglas para el caos. La número 4 lo cambia todo.",
       "motor": "plantilla",
       "estado": "pendiente",
-      "ts": "20261126_02"
+      "ts": "20261127_02"
     }
   ]
 }
